@@ -3,12 +3,8 @@ package com.dogauzunali;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
-import java.util.Set;
 
 public class Partitioner {
-	
-	private HashMap<String, ArrayList<String>> exampleData;
-	private HashMap<String, ArrayList<String>> dataToGuess;
 	
 	private ArrayList<TextFile> teachingDataSet;
 	private ArrayList<TextFile> guessDataSet;

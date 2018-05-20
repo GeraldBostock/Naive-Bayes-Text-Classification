@@ -15,7 +15,6 @@ public class NaiveBayes {
 	private static final int TRUE_POSITIVE = 0;
 	private static final int FALSE_NEGATIVE = 1;
 	private static final int FALSE_POSITIVE = 2;
-	private static final int TRUE_NEGATIVE = 3;
 	/*
 	 * Index 0 True Positive
 	 * Index 1 False Negative
@@ -225,7 +224,9 @@ public class NaiveBayes {
 	
 	public void printPerformanceMeasures()
 	{
-		
+		System.out.println("\nPerformance measures: ");
+		Log.info("");
+		Log.info("Performance measures: ");
 		for(String category : categories)
 		{
 			System.out.println(category + ": { Precision: " + performanceMeasures.get(category)[0] * 100 + "%, Recall: " + performanceMeasures.get(category)[1] * 100 + "%, F-Measure: " + performanceMeasures.get(category)[2] * 100 + "% }");

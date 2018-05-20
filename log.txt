@@ -10630,106 +10630,10 @@ File category is saglik
 Given category is saglik
 
 File category is saglik
-Given category is magazin
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
 Given category is saglik
 
 File category is saglik
 Given category is siyasi
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is magazin
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is magazin
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
 
 File category is saglik
 Given category is saglik
@@ -10762,22 +10666,7 @@ File category is saglik
 Given category is saglik
 
 File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is ekonomi
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is saglik
-
-File category is saglik
-Given category is magazin
+Given category is siyasi
 
 File category is saglik
 Given category is saglik
@@ -10794,131 +10683,116 @@ Given category is saglik
 File category is saglik
 Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is magazin
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is siyasi
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
-File category is spor
-Given category is spor
-
-File category is spor
-Given category is spor
-
-File category is spor
-Given category is spor
-
-File category is spor
-Given category is spor
-
-File category is spor
-Given category is spor
-
-File category is spor
-Given category is spor
+File category is saglik
+Given category is saglik
 
 File category is spor
 Given category is spor
@@ -10968,8 +10842,131 @@ Given category is spor
 File category is spor
 Given category is spor
 
-File category is magazin
-Given category is magazin
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
+
+File category is spor
+Given category is spor
 
 File category is magazin
 Given category is magazin
@@ -11066,39 +11063,6 @@ Given category is magazin
 
 File category is magazin
 Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is magazin
-
-File category is magazin
-Given category is siyasi
 
 File category is magazin
 Given category is magazin
@@ -11142,68 +11106,41 @@ Given category is magazin
 File category is magazin
 Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
-
-File category is siyasi
-Given category is siyasi
+File category is magazin
+Given category is magazin
 
 File category is siyasi
 Given category is siyasi
@@ -11296,10 +11233,73 @@ File category is siyasi
 Given category is siyasi
 
 File category is siyasi
-Given category is magazin
+Given category is siyasi
 
 File category is siyasi
-Given category is magazin
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
+
+File category is siyasi
+Given category is siyasi
 
 File category is siyasi
 Given category is siyasi
@@ -11320,114 +11320,6 @@ File category is ekonomi
 Given category is ekonomi
 
 File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is siyasi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is siyasi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is siyasi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is magazin
-
-File category is ekonomi
 Given category is magazin
 
 File category is ekonomi
@@ -11446,19 +11338,7 @@ File category is ekonomi
 Given category is ekonomi
 
 File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is ekonomi
-
-File category is ekonomi
-Given category is magazin
+Given category is siyasi
 
 File category is ekonomi
 Given category is ekonomi
@@ -11488,10 +11368,132 @@ File category is ekonomi
 Given category is ekonomi
 
 File category is ekonomi
+Given category is saglik
+
+File category is ekonomi
 Given category is ekonomi
-saglik: { Precision: 100.0%, Recall: 87.93104%, F-Measure: 93.57799% }
-spor: { Precision: 98.27586%, Recall: 98.27586%, F-Measure: 98.27587% }
-magazin: { Precision: 84.84849%, Recall: 96.55172%, F-Measure: 90.322586% }
-siyasi: { Precision: 90.16393%, Recall: 94.82758%, F-Measure: 92.43698% }
-ekonomi: { Precision: 96.296295%, Recall: 89.655174%, F-Measure: 92.85714% }
-Averages: { Precision: 93.91692%, Recall: 93.44827%, F-Measure: 93.49411% }
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is magazin
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is spor
+
+File category is ekonomi
+Given category is siyasi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is magazin
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+File category is ekonomi
+Given category is ekonomi
+
+Performance measures: 
+saglik: { Precision: 98.14815%, Recall: 91.37931%, F-Measure: 94.64285% }
+spor: { Precision: 96.61017%, Recall: 98.27586%, F-Measure: 97.43591% }
+magazin: { Precision: 91.935486%, Recall: 98.27586%, F-Measure: 95.0% }
+siyasi: { Precision: 90.47619%, Recall: 98.27586%, F-Measure: 94.214874% }
+ekonomi: { Precision: 98.07692%, Recall: 87.93104%, F-Measure: 92.72727% }
+Averages: { Precision: 95.04938%, Recall: 94.82759%, F-Measure: 94.80418% }
