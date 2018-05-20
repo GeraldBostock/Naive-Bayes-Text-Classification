@@ -1,4 +1,4 @@
-package com.dogauzunali;
+package machinelearning;
 
 import java.io.File;
 import java.io.FilenameFilter;
@@ -77,8 +77,8 @@ public class Preprocessor {
 	    while (input.hasNext()) {
 	      String word  = input.next();
 	      
-	      word = word.replaceAll("^[,.\"\']*+", "");
-	      word = word.replaceAll("[,.\"\']*+$", "");
+	      word = word.replaceAll("^[,.\"\']*+\\?", "");
+	      word = word.replaceAll("[,.\"\']*+\\?$", "");
 	      
 	      if(!spellChecker.check(word))
 	      {

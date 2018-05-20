@@ -1,4 +1,4 @@
-package com.dogauzunali;
+package machinelearning;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;

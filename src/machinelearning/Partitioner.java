@@ -1,4 +1,4 @@
-package com.dogauzunali;
+package machinelearning;
 
 import java.util.ArrayList;
 import java.util.Collections;
