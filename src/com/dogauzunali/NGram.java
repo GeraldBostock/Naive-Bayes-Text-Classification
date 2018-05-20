@@ -6,13 +6,11 @@ import java.util.Set;
 
 public class NGram {
 	
-	private int n;
 	private HashMap<String, Integer> nGrams;
 	private ArrayList<TextFile> files;
 	
 	public HashMap<String, Integer> getAllNGrams(HashMap<String, ArrayList<String>> dataSet, int n)
 	{
-		this.n = n;
 		nGrams = new HashMap<String, Integer>();
 		files = new ArrayList<TextFile>();
 		
@@ -28,7 +26,8 @@ public class NGram {
 				TextFile file = new TextFile();
 				file.setText(text);
 				file.setCategory(key);
-				calculateNGrams(text, file);
+				calculateNGrams(text, file, 2);
+				calculateNGrams(text, file, 3);
 				files.add(file);
 			}
 		}
@@ -37,9 +36,12 @@ public class NGram {
 		return nGrams;
 	}
 	
-	private void calculateNGrams(String text, TextFile file)
+	private void calculateNGrams(String text, TextFile file, int n)
 	{
-		HashMap<String, Integer> fileNGrams = new HashMap<String, Integer>();
+		HashMap<String, Integer> fileNGrams;
+		if(file.getNGrams() == null) fileNGrams = new HashMap<String, Integer>();
+		else fileNGrams = file.getNGrams();
+		
 		for(int i = 0; i < text.length() - n; i++)
 		{
 			String gram = "";

@@ -4,16 +4,37 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
+import zemberek.core.logging.Log;
+
 public class NaiveBayes {
 	
 	private HashMap<String, Float> categoryProbs;
 	private HashMap<String, HashMap<String, Float>> gramProbsByCategory;
 	private Set<String> categories;
+	
+	private static final int TRUE_POSITIVE = 0;
+	private static final int FALSE_NEGATIVE = 1;
+	private static final int FALSE_POSITIVE = 2;
+	private static final int TRUE_NEGATIVE = 3;
+	/*
+	 * Index 0 True Positive
+	 * Index 1 False Negative
+	 * Index 2 False Positive
+	 * Index 3 True Negative
+	 */
+	private HashMap<String, int[]> confusionMatrices;
+	/*
+	 * Index 0 Precision
+	 * Index 1 Recall
+	 * Index 2 F-Measure
+	 */
+	private HashMap<String, float[]> performanceMeasures;
 
 	public void teach(ArrayList<TextFile> files, HashMap<String, Integer> vocabulary)
 	{
 		HashMap<String, ArrayList<TextFile>> categorizedFiles = new HashMap<String, ArrayList<TextFile>>();
 		categoryProbs = new HashMap<String, Float>();
+		performanceMeasures = new HashMap<String, float[]>();
 		gramProbsByCategory = new HashMap<String, HashMap<String, Float>>();
 		
 		for(TextFile file : files)
@@ -34,8 +55,11 @@ public class NaiveBayes {
 		}
 		
 		categories = categorizedFiles.keySet();
+		confusionMatrices = new HashMap<String, int[]>();
 		for(String category : categories)
 		{
+			int[] confusionMatrix = {0, 0, 0, 0};
+			confusionMatrices.put(category, confusionMatrix);
 			ArrayList<TextFile> filesInCategory = categorizedFiles.get(category);
 			float categoryProb = (float)filesInCategory.size() / (float)files.size();
 			categoryProbs.put(category, categoryProb);
@@ -89,7 +113,8 @@ public class NaiveBayes {
 				classProbs.put(category, classProb);
 			}
 			
-			System.out.println("\nFile category is " + file.getCategory());
+			String fileCategory = file.getCategory();
+			System.out.println("\nFile category is " + fileCategory);
 			System.out.print("Given category is ");
 			
 			float minProb = -999999999.0f;
@@ -105,7 +130,19 @@ public class NaiveBayes {
 			}
 			
 			System.out.println(winnerCategory);
+			
+			if(winnerCategory == fileCategory)
+			{
+				confusionMatrices.get(winnerCategory)[TRUE_POSITIVE]++;
+			}
+			else
+			{
+				confusionMatrices.get(fileCategory)[FALSE_NEGATIVE]++;
+				confusionMatrices.get(winnerCategory)[FALSE_POSITIVE]++;
+			}
 		}
+		
+		calculatePerformance();
 	}
 	
 	private HashMap<String, HashMap<String, Integer>> categorizeFrequencies(HashMap<String, ArrayList<TextFile>> files, HashMap<String, Integer> vocabulary)
@@ -151,5 +188,52 @@ public class NaiveBayes {
 		}
 		
 		return gramFrequencies;
+	}
+	
+	private void calculatePerformance()
+	{
+		float[] total = {0 ,0 ,0};
+		
+		for(String category : categories)
+		{
+			float[] performanceMeasuresArray = {0, 0, 0};
+			int[] confusionMatrix = confusionMatrices.get(category);
+			
+			//Precision
+			float presicion = (float)confusionMatrix[TRUE_POSITIVE] / (float)(confusionMatrix[TRUE_POSITIVE] + confusionMatrix[FALSE_POSITIVE]);
+			performanceMeasuresArray[0] = presicion;
+			//Recall
+			float recall = (float)confusionMatrix[TRUE_POSITIVE] / (float)(confusionMatrix[TRUE_POSITIVE] + confusionMatrix[FALSE_NEGATIVE]);
+			performanceMeasuresArray[1] = recall;
+			//F-Measure
+			float beta = 0.5f;
+			float fmeasure = 1 / (beta * (1 / presicion) + ((1 - beta) * (1 / recall)));
+			performanceMeasuresArray[2] = fmeasure;
+			
+			total[0] += presicion;
+			total[1] += recall;
+			total[2] += fmeasure;
+			
+			performanceMeasures.put(category, performanceMeasuresArray);
+		}
+		
+		total[0] /= (float)categories.size();
+		total[1] /= (float)categories.size();
+		total[2] /= (float)categories.size();
+		performanceMeasures.put("average", total);
+	}
+	
+	public void printPerformanceMeasures()
+	{
+		
+		for(String category : categories)
+		{
+			System.out.println(category + ": { Precision: " + performanceMeasures.get(category)[0] * 100 + "%, Recall: " + performanceMeasures.get(category)[1] * 100 + "%, F-Measure: " + performanceMeasures.get(category)[2] * 100 + "% }");
+			Log.info(category + ": { Precision: " + performanceMeasures.get(category)[0] * 100 + "%, Recall: " + performanceMeasures.get(category)[1] * 100 + "%, F-Measure: " + performanceMeasures.get(category)[2] * 100 + "% }");
+		}
+		
+		float[] averages = performanceMeasures.get("average");
+		System.out.println("Averages: { Precision: " + averages[0] * 100 + "%, Recall: " + averages[1] * 100 + "%, F-Measure: " + averages[2] * 100 + "% }");
+		Log.info("Averages: { Precision: " + averages[0] * 100 + "%, Recall: " + averages[1] * 100 + "%, F-Measure: " + averages[2] * 100 + "% }");
 	}
 }
